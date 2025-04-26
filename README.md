@@ -1,4 +1,9 @@
 # EX-06 - Looping
+
+NAME : MOHAMED NIZAMUDDIN A 
+
+REG NO : 212224040194
+
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
 
